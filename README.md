@@ -1,4 +1,5 @@
 The changed part of AndroidManifest.xml is as show bellow
+
 activity
 android:name=".MainActivity"
 android:configChanges="orientation|screenSize|keyboardHidden"
